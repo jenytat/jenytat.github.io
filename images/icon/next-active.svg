@@ -1,0 +1,16 @@
+<svg id="акт" xmlns="http://www.w3.org/2000/svg" width="62.94" height="12.12" viewBox="0 0 62.94 12.12">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #91d7ff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="5.06" width="62" height="2" rx="1" ry="1"/>
+  <path id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-2" d="M1593.58,1108.84l-5.2-4.64a1,1,0,1,0-1.33,1.49l5.2,4.64A1,1,0,1,0,1593.58,1108.84Z" transform="translate(-1531 -1103.94)"/>
+  <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-2" d="M1593.58,1111.16l-5.2,4.64a1,1,0,1,1-1.33-1.49l5.2-4.64A1,1,0,1,1,1593.58,1111.16Z" transform="translate(-1531 -1103.94)"/>
+</svg>
